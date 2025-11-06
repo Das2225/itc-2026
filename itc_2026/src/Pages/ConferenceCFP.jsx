@@ -172,7 +172,7 @@ function ConferenceCFP() {
             to be submitted through{" "}
             <a
               className="underline text-blue-300"
-              href="https://easychair.org/conferences/?conf=itcindia2025"
+              href="https://easychair.org/conferences/?conf=itcindia2026"
             >
               EasyChair
             </a>
