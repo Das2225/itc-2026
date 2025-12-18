@@ -245,7 +245,7 @@ function ConferenceCFP() {
         </div>
 
         {/* Closing Statement */}
-        <div className="mt-16 mx-4 md:mx-8 p-6 rounded-xl bg-gray-800 border-4 border-blue-500 text-center">
+        <div className="mt-16 mx-2 md:mx-8 p-6 rounded-xl bg-gray-800 border-4 border-blue-500 text-center">
           <p className="text-white text-xl md:text-2xl font-semibold">
             We look forward to your contributions to ITC India 2026!
           </p>
