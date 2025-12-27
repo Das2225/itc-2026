@@ -140,7 +140,7 @@ function ConferenceCFP() {
               
               <div className="bg-[#00E0FF] text-black text-center font-bold rounded-full py-6 px-8 w-full md:w-[45%] lg:w-[40%] shadow-[0_0_15px_rgba(0,224,255,0.5)]">
                 <div className="text-lg md:text-xl lg:text-2xl mb-2">Paper/Poster Submission Deadline</div>
-                <div className="text-xl md:text-2xl lg:text-3xl">10 March, 2026</div>
+                <div className="text-xl md:text-2xl lg:text-3xl">10th March, 2026</div>
               </div>
             </div>
 
@@ -148,12 +148,12 @@ function ConferenceCFP() {
             <div className="flex flex-col md:flex-row justify-center gap-8 w-full max-w-6xl">
               <div className="bg-[#00E0FF] text-black text-center font-bold rounded-full py-6 px-8 w-full md:w-[45%] lg:w-[40%] shadow-[0_0_15px_rgba(0,224,255,0.5)]">
                 <div className="text-lg md:text-xl lg:text-2xl mb-2">Author Notification</div>
-                <div className="text-xl md:text-2xl lg:text-3xl">10 May, 2026</div>
+                <div className="text-xl md:text-2xl lg:text-3xl">10th May, 2026</div>
               </div>
 
               <div className="bg-[#00E0FF] text-black text-center font-bold rounded-full py-6 px-8 w-full md:w-[45%] lg:w-[40%] shadow-[0_0_15px_rgba(0,224,255,0.5)]">
                 <div className="text-lg md:text-xl lg:text-2xl mb-2">Camera-ready Paper Due</div>
-                <div className="text-xl md:text-2xl lg:text-3xl">31 May 2026</div>
+                <div className="text-xl md:text-2xl lg:text-3xl">31st May 2026</div>
               </div>
             </div>
 
